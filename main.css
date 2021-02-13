@@ -10,3 +10,8 @@ h1{
     margin-top: 3%;
     font-size: 30px;
 }
+
+strong{
+	    margin-right: 1%;
+        color: red;
+}
